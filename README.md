@@ -19,4 +19,4 @@ I like to keep things simple but powerful. Most of my projects start with curios
 🔗 Connect with Me
 
 Let’s connect beyond GitHub!
-👉 [LinkedIn](www.linkedin.com/in/akhil-krishna-guggilam-68446a2aa)
+👉 [LinkedIn]('www.linkedin.com/in/akhil-krishna-guggilam-68446a2aa')
