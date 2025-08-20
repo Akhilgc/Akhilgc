@@ -1,16 +1,16 @@
 👨‍💻 Hey, I’m Akhil
 
-I’m a coder who loves building things — whether it’s a web app that actually solves a problem or a Java project that pushes me to learn something new. For me, coding isn’t just about writing functions; it’s about creating, experimenting, breaking stuff, and fixing it again until it works better.
+I’m a coder who loves building things whether it’s a web app that actually solves a problem or a Java project that pushes me to learn something new. For me coding isn’t just about writing functions it’s about creating, experimenting, breaking stuff and fixing it again until it works better.
 
 🚀 What I Do
 
-🌐 Web Development → Playing around with React, Node.js, and modern frontend magic
+🌐 Web Development → Playing around with React, Node.js and modern frontend magic
 
-☕ Java Projects → Building backends with Java + Spring Boot, APIs, and automation tools
+☕ Java Projects → Building backends with Java + Spring Boot, APIs and automation tools
 
-⚡ Experimenting → Side projects, learning by doing, and trying new frameworks/tech
+⚡ Experimenting → Side projects, learning by doing and trying new frameworks/tech
 
-📂 Sharing → My GitHub is a collection of experiments, ideas, and projects I actually enjoyed making
+📂 Sharing → My GitHub is a collection of experiments, ideas and projects I actually enjoyed making
 
 💡 My Vibe
 
